@@ -1,11 +1,13 @@
 # **Learn R Programming**
----
  - Basics Example to Understand R
  - Reading and Writing to File
  - Simple plotting
  - Multi-criteria decision making (MCDM) using Topsis
  - Model Evaluation Parameters for Regression and Classification using R
- - 
+
+### **Practice**
+ - Practice R-Programming notebook in Google Colab
+ - Practice R-Programming.R in R-Studio (After download).
 
 ### **Self learning resource**
 - Tutorial on R | **<a href="https://www.w3schools.com/r/" target="_blank"> Click Here</a>** 
